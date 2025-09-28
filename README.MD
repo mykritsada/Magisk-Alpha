@@ -1,17 +1,4 @@
-![](docs/images/logo.png)
-
-[![Downloads](https://img.shields.io/badge/dynamic/json?color=green&label=Downloads&query=totalString&url=https%3A%2F%2Fraw.githubusercontent.com%2Ftopjohnwu%2Fmagisk-files%2Fcount%2Fcount.json&cacheSeconds=1800)](https://raw.githubusercontent.com/topjohnwu/magisk-files/count/count.json)
-
-#### This is not an officially supported Google product
-
-## Introduction
-
-Magisk is a suite of open source software for customizing Android, supporting devices higher than Android 5.0.<br>
-Some highlight features:
-
-- **MagiskSU**: Provide root access for applications
-- **Magisk Modules**: Modify read-only partitions by installing modules
-- **MagiskBoot**: The most complete tool for unpacking and repacking Android boot images
+i tool for unpacking and repacking Android boot images
 
 ## Downloads
 
